@@ -35,4 +35,4 @@ For any questions, suggestions, or feedback, feel free to reach out!
 
 - **Author**: Bao Minh
 - **GitHub**: [baominh5xx2](https://github.com/baominh5xx2)
-- **Email**: [your-email@example.com](mailto:baominh5xx2@example.com)
+- **Email**: [baominh5xx2@gmail.com](mailto:baominh5xx2@gmail.com)
