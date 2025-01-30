@@ -33,6 +33,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📩 Contact
 For any questions, suggestions, or feedback, feel free to reach out!
 
-- **Author**: Bao Minh
+- **Author**: Nguyễn Minh Bảo
 - **GitHub**: [baominh5xx2](https://github.com/baominh5xx2)
 - **Email**: [baominh5xx2@gmail.com](mailto:baominh5xx2@gmail.com)
