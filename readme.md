@@ -25,11 +25,6 @@ Customer sentiment analysis is crucial for businesses to understand feedback. Th
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## 📩 Contact
 For any questions, suggestions, or feedback, feel free to reach out!
 
