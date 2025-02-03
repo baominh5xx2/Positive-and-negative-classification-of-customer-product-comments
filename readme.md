@@ -10,7 +10,8 @@ Customer sentiment analysis is crucial for businesses to understand feedback. Th
 **Steps:**
 1. Extract feature vectors using **PhoBERT embeddings**.
 2. Train and evaluate **SVM with different kernels** (`linear`, `RBF`, `poly`) and **Logistic Regression**.
-3. Compare accuracy and other metrics.
+3. Using two treatments to train the model: scikit-learn library (training on CPU) and cuML to call the API of scikit-learn for training on GPU.
+4. Compare accuracy and other metrics.
 
 ---
 
